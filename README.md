@@ -13,7 +13,7 @@ Excel-based tool for analyzing betting trends and profits across variables
 - Date placed: the month/day/year in which the bet was placed (not the date of the event)
 - Sportsbook: the sportsbook in which the bet was placed
 - League: the league(s) in which are included in the bet
-- Composition: framework of the bet:
+- Composition: framework of the bet
   - "Straight" if only one thing has to happen to win
   - "Parlay" if multiple things have to happen to win
   - "Boost" if the sportsbook offered a pre-made bet for you to take with enhanced odds
