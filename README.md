@@ -10,7 +10,7 @@ Excel-based tool for analyzing betting trends and profits across variables
 
 ## Column Descriptions
 
-- Date placed: The month/day/year in which the bet was placed (not the date of the event)
+- Date placed: the month/day/year in which the bet was placed (not the date of the event)
 - Sportsbook: the sportsbook in which the bet was placed
 - League: the league(s) in which are included in the bet
 - Compositin: framework of the bet:
