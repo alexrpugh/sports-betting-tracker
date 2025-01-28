@@ -57,6 +57,6 @@ Excel-based tool for analyzing betting trends and profits across variables
 - Hit % on Team/Player search encompasses all bets.
 - Profit on Team/Player search only encompasses straight bets.
 - Futures sheet does not automatically populate; bets must be re-entered.
-- Leave day-by-day data will automatically populate in the monthly sheets.					
+- Day-by-day data will automatically populate in the monthly sheets.					
 - Leave ' (an apostrophe) in cell A2 of future monthly sheets (makes the master sheet prettier upon compiling).
 
