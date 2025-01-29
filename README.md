@@ -47,6 +47,7 @@ Excel-based tool for analyzing betting trends and profits across variables
 - Reason for Loss: a comma seperated list of all teams or legs that led to the bet to lose
   - Leave empty if the bet was a win
 - Source: From whom the inspiration for the bet was derived (i.e., a sports betting influencer; a friend)
+  - To change source options to specific people or organizations, alter cells F50:F58 on the 'Master' sheet
 - Notes: Any optional notes to add
 
  
