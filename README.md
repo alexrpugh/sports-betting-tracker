@@ -1,11 +1,11 @@
 # sports-betting-tracker
-Excel-based tool for analyzing betting trends and profits across variables
+This self-made Excel tool analyzes betting trends and profits across various variables, providing valuable insights into your betting history. By logging bets into the appropriate monthly sheet, you can track many valuable metrics - such as profitability by sportsbook, assess hit rates for individual players and teams, and identify the odds ranges where your bets most frequently fall. This tracker helps you make more informed decisions and bet responsibly.
 
 ## How To Use
 
-1. Download from this repository
-2. Hit "Enable Macros" upon opening
-3. Begin logging your sports bets in the appropriate month from which the bet was placed (i.e., a January 10th bet would go in the "Jan 2025" sheet)
+1. Download from this repository.
+2. Hit "Enable Macros" upon opening.
+3. Begin logging your sports bets in the appropriate month from which the bet was placed (i.e., a January 10th bet would go in the "Jan 2025" sheet).
 5. Log bets into appropriate monthly sheets according to date placed.
 
 ## Column Descriptions
@@ -40,13 +40,13 @@ Excel-based tool for analyzing betting trends and profits across variables
   - "No" is FALSE
 - Profit: the amount gained or lost after accounting for the amount wagered
   - Autofilled if the "Wager" and "Win" columns are manually filled
-- Teams Bet On: a comma seperated list of all teams included in the bet
+- Teams Bet On: a comma-separated list of all teams included in the bet
   - Include repeat values to ensure "Number of Legs" is correct
-- Players Bet On: a comma seperated list of all players included in the bet
+- Players Bet On: a comma-separated list of all players included in the bet
   - Include repeat values to ensure "Number of Legs" is correct
-- Reason for Loss: a comma seperated list of all teams or legs that led to the bet to lose
+- Reason for Loss: a comma-separated list of all teams or legs that led to the bet losing
   - Leave empty if the bet was a win
-- Source: From whom the inspiration for the bet was derived (i.e., a sports betting influencer; a friend)
+- Source: Where the inspiration for the bet came from (e.g., a sports betting influencer, a friend)
   - To change source options to specific people or organizations, alter cells F50:F58 on the 'Master' sheet
 - Notes: Any optional notes to add
 
