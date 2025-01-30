@@ -5,7 +5,7 @@ This self-made Excel tool analyzes betting trends and profits across various var
 
 1. Download from this repository.
 2. Hit "Enable Macros" upon opening.
-3. Begin logging your sports bets in the appropriate month from which the bet was placed (i.e., a January 10th bet would go in the "Jan 2025" sheet).
+3. Begin logging your sports bets in the appropriate month from which the bet was placed (i.e., a January 10th bet on the Super Bowl in February would go in the "Jan 2025" sheet).
 5. Log bets into appropriate monthly sheets according to date placed.
 6. Select columns A-S and sort by Date Placed (oldest to newest).
 
